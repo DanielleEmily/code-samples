@@ -48,10 +48,8 @@ public class MissingNumberFinder {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[] testArray = {4,6,9};
 		ArrayList<Integer> missingNumbers = findMissingNumbers(testArray, 0, 12);
 		System.out.println(missingNumbers);
 	}
-
 }
