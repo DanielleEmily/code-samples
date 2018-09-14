@@ -1,5 +1,7 @@
 package practice;
 
+//Problem Statement: Find all missing (integer) numbers in an array from the minimum value to the maximum value.
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
