@@ -1,6 +1,6 @@
 package practice;
 
-//Print all the duplicate characters in a string
+//Problem Statement: Print all the duplicate characters in a string
 
 import java.util.HashMap;
 import java.util.Map;

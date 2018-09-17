@@ -1,6 +1,6 @@
 package practice;
 
-//Implement the bubble sort algorithm.
+//Problem Statement: Implement the bubble sort algorithm.
 
 public class BubbleSorter {
 	public static int[] bubbleSort(int[] toSort){

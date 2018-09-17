@@ -1,6 +1,6 @@
 package practice;
 
-//Find the middle element of a singly linked list in a single loop statement where the size of the linked list is not known.
+//Problem Statement: Find the middle element of a singly linked list in a single loop statement where the size of the linked list is not known.
 
 import java.util.LinkedList;
 import java.util.ListIterator;
